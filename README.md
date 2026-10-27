@@ -13,3 +13,15 @@ Have fun!
 # 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Learning plan
+basic-IPv4-Configuration
+VLSM-subnetting
+ipv4-static-routes
+router-on-a-stick-Vlan-Configuration
+Branch Network Lab (the capstone)
+complete NAT lab: static → dynamic → overload
+ipv6-configuration
+VTP-configuration and analyzing-STP (optional)
+
+Then the three that are missing: DHCP, ACLs, DNS, HTTP.
